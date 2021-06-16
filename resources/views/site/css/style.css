@@ -1,0 +1,53 @@
+:root {
+    --main-bg-color: #edf0f5;
+}
+
+.max-width {
+    max-width: 1024px;
+    width: 100%;
+}
+
+.center-screen{
+    margin: 0 auto;
+}
+
+.bg-white{
+    background-color: #FFFFFF;
+}
+
+.padding{
+    padding: 10px;
+}
+
+body {
+    background-color: var(--main-bg-color);
+}
+
+.container-fluid a:hover{
+    color: rgb(26, 244, 183);
+}
+
+#navbar {
+    background-color: rgb(46,41,58);
+    margin: 0px;
+}
+
+.navbar, .navbar-default {
+    border: none;
+}
+
+nav a:hover {
+    color: rgb(2, 10, 10) !important;
+}
+
+.navbar-nav {
+    color: #2c8349;
+}
+
+nav a img {
+    width: 50px;
+    padding: 5px;
+}
+
+
+
