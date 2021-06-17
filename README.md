@@ -7,7 +7,7 @@ em sua versão mais recente e um banco de dados MySQL.
 Como a atividade tem por objetivo demonstrar suas habilidades como desenvolvedor Back End, o Front End
 precisa apenas ser funcional:
 
-## TAREFA
+## DESCRIÇÃO DA APLICAÇÃO
 
 Um grupo de amigos, desenvolvedores, resolveram jogar futebol toda semana em um campo Society de
 Poços de Caldas.
